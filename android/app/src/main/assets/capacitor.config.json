@@ -2,8 +2,5 @@
 	"appId": "io.ionic.starter",
 	"appName": "tryTest",
 	"webDir": "dist",
-	"bundledWebRuntime": false,
-	"server": {
-		"url": "http://192.168.1.171:8101"
-	}
+	"bundledWebRuntime": false
 }
